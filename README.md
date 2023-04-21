@@ -1,4 +1,5 @@
 [![lite-badge]][lite]
+
 [lite]: https://lesteve.github.io/jupyterlite-pyodide-dev
 [lite-badge]: https://jupyterlite.rtfd.io/en/latest/_static/badge.svg
 
