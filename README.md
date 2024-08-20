@@ -8,7 +8,7 @@ https://lesteve.github.io/jupyterlite-pyodide-dev
 A JupyterLite using Pyodide development version as a more user-friendly
 alternative to https://pyodide.org/en/latest/console.html.
 
-The trick is to set pyodideUrl in [jupyter-lite.json](./jupyter-lite.json) as
+The trick is to set `pyodideUrl` in [jupyter-lite.json](./jupyter-lite.json) as
 indicated in the JupyterLite [doc](https://jupyterlite.readthedocs.io/en/latest/howto/pyodide/pyodide.html).
 
 # How to update this repo
