@@ -18,6 +18,13 @@
         "liteExtension": true,
         "load": "static/remoteEntry.e96be077d96e844d0c72.js",
         "name": "@jupyterlite/pyodide-kernel-extension"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.5cbb9d2323598fbda535.js",
+        "name": "jupyterlab_pygments",
+        "style": "./style"
       }
     ],
     "fileTypes": {
